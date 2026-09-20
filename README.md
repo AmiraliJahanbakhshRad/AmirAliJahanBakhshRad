@@ -1,7 +1,3 @@
-# GitHub Profile README
-# AmirAli JahanBakhsh Rad
-# GitHub Username: AmirAliJahanBakhshRad
-
 <div align="center">
 
 # ⚡ AmirAli JahanBakhsh Rad
