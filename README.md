@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ AmirAliZzZ
+# ⚡ AmiAliZzZ
 
 ### `Full Stack Developer` • `System Architect` • `FiveM Developer`
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=AmirAliZzZ&style=for-the-badge&color=00ffff&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=AmiAliZzZ&style=for-the-badge&color=00ffff&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -153,9 +153,9 @@ I care about **clean architecture, performance, maintainability and the final us
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmirAliZzZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmiAliZzZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAliZzZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiAliZzZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 
 </div>
 
@@ -221,7 +221,7 @@ end
 
 <div align="center">
 
-# ⚡ AmirAliZzZ
+# ⚡ AmiAliZzZ
 
 ### `Full Stack Developer`
 
