@@ -18,8 +18,8 @@
 
 ```js
 const AmirAli = {
-    name: "AmirAliZzZ",
-    username: "AmirAliZzZ",
+    name: "AmiAliZzZ",
+    username: "AmiAliZzZ",
     role: "Full Stack Developer",
     specialties: [
         "Web Development",
