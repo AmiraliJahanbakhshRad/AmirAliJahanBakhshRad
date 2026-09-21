@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ AmirAli JahanBakhsh Rad
+# ⚡ AmirAliZzZ
 
 ### `Full Stack Developer` • `System Architect` • `FiveM Developer`
 
@@ -18,8 +18,8 @@
 
 ```js
 const AmirAli = {
-    name: "AmirAli JahanBakhsh Rad",
-    username: "AmirAliJahanBakhshRad",
+    name: "AmirAliZzZ",
+    username: "AmirAliZzZ",
     role: "Full Stack Developer",
     specialties: [
         "Web Development",
